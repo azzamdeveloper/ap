@@ -1,0 +1,6 @@
+{
+  "name": "Z Browser",
+  "description": "Fast & secure private web browser with built-in VPN, high-speed encrypted shield, and intelligent adblocker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
